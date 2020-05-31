@@ -1,0 +1,16 @@
+{
+    "name": "renakdup/php-patterns",
+    "description": "Examples of PHP patterns",
+    "authors": [
+        {
+            "name": "Andrew Pisarevsky",
+            "email": "renakdup@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.1"
+    }
+}
