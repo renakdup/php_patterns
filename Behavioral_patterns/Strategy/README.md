@@ -1,4 +1,4 @@
-## Strategy (Стратегрия)
+# Strategy (Стратегия)
 **Type**: Behavioral patten
 
 ![Strategy pattern](../../assets/images/Strategy_pattern.png)
