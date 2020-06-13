@@ -1,11 +1,12 @@
 <?php
+// Client
 
 $fileConnector = new FileConnector('example.txt');
-$client = new ClientClass($fileConnector);
+$client = new ContextClass($fileConnector);
 echo $client->prosess(); // file connector length
 
 $urlConnector = new UrlConnector('http://example.com');
-$client = new ClientClass($urlConnector);
+$client = new ContextClass($urlConnector);
 echo $client->prosess(); // url connector length
 
 /**
