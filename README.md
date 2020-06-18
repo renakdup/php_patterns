@@ -5,7 +5,10 @@
      новых объектов или даже целых семейств объектов.*
 
      - [Singleton](Creational_patterns/Singleton/README.md)
-     
+     - [Simply Factory](Creational_patterns/Factory_simply/README.md)
+     - [Static Factory](Creational_patterns/Factory_static/README.md)
+     - [Factory Method](Creational_patterns/Factory_method/README.md)
+     - [Factory Static Method](Creational_patterns/Factory_static_method/README.md)
      
 2. Structural patterns
     - Adapter 
